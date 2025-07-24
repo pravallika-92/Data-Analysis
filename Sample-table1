@@ -1,0 +1,8 @@
+products
+| id  | name            | category       |
+| --- | --------------- | -------------- |
+| 101 | Redmi Note      | Electronics    |
+| 102 | Dell Laptop     | Electronics    |
+| 103 | Mixer           | Home Appliance |
+| 104 | Samsung TV      | Electronics    |
+| 105 | Prestige Cooker | Kitchenware    |
