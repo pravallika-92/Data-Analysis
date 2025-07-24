@@ -1,0 +1,11 @@
+customers
+| id  | name      | region     |
+| --- | --------- | ---------- |
+| 201 | Ramesh    | Guntur     |
+| 202 | Sravani   | Vijayawada |
+| 203 | Anil      | Vizag      |
+| 204 | Lakshmi   | Tirupati   |
+| 205 | Sai Kumar | Nellore    |
+| 206 | Haritha   | Kurnool    |
+| 207 | Praveen   | Guntur     |
+| 208 | Kavya     | Vijayawada |
